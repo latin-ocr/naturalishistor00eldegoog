@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./naturalishistor00eldegoog/naturalishistor00eldegoog_0007.png"; bbox 0 0 3210 4941; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 719 1952 2179 2051">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 719 1952 2179 2051">
+     <span class='ocr_line' id='line_1_1' title="bbox 719 1952 2179 2051; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 719 1952 724 1957; x_wconf 68' lang='grc'>’</span> <span class='ocrx_word' id='word_1_2' title='bbox 817 1958 938 2051; x_wconf 85' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1041 1956 1478 2047; x_wconf 89' lang='lat' dir='ltr'>PLINII</span> <span class='ocrx_word' id='word_1_4' title='bbox 1579 1956 2019 2050; x_wconf 89' lang='lat' dir='ltr'>SECUN</span> <span class='ocrx_word' id='word_1_5' title='bbox 2028 1959 2179 2047; x_wconf 92' lang='lat' dir='ltr'>DI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 339 2318 2561 2415">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 339 2318 2561 2415">
+     <span class='ocr_line' id='line_1_2' title="bbox 339 2318 2561 2415; baseline -0.005 0"><span class='ocrx_word' id='word_1_6' title='bbox 339 2410 346 2415; x_wconf 89' lang='lat'>.</span> <span class='ocrx_word' id='word_1_7' title='bbox 450 2318 1094 2410; x_wconf 77' lang='lat' dir='ltr'>NATURALIS</span> <span class='ocrx_word' id='word_1_8' title='bbox 1149 2328 1715 2409; x_wconf 74' lang='lat' dir='ltr'>HISTORIAE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1770 2330 2077 2408; x_wconf 84' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_10' title='bbox 2126 2326 2561 2408; x_wconf 82' lang='lat' dir='ltr'>XXXVII.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1263 2844 1737 2909">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1263 2844 1737 2909">
+     <span class='ocr_line' id='line_1_3' title="bbox 1263 2844 1737 2909; baseline -0.004 0"><span class='ocrx_word' id='word_1_11' title='bbox 1263 2844 1478 2909; x_wconf 80' lang='lat' dir='ltr'><strong>VOL.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1552 2844 1737 2908; x_wconf 77' lang='lat' dir='ltr'>XII.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 547 4373 1629 4438">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 547 4373 1629 4438">
+     <span class='ocr_line' id='line_1_4' title="bbox 547 4373 1629 4438; baseline -0.002 -14"><span class='ocrx_word' id='word_1_13' title='bbox 547 4377 712 4438; x_wconf 54' lang='lat' dir='ltr'><em>Delfi.</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 736 4381 778 4424; x_wconf 72' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_15' title='bbox 805 4375 917 4425; x_wconf 78' lang='lat' dir='ltr'>Vm·-</span> <span class='ocrx_word' id='word_1_16' title='bbox 941 4377 1071 4425; x_wconf 66' lang='lat' dir='ltr'><strong><em>Clas.</em></strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1163 4380 1175 4388; x_wconf 85' lang='lat'><strong><em>&#39;</em></strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1423 4373 1629 4422; x_wconf 65' lang='lat' dir='ltr'>Plinius.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

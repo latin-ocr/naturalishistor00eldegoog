@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./naturalishistor00eldegoog_0010.png"; bbox 0 0 3210 4941; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 549 154 694 221">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 549 154 694 221">
+     <span class='ocr_line' id='line_1_1' title="bbox 549 154 694 221; baseline 0.007 -1"><span class='ocrx_word' id='word_1_1' title='bbox 549 154 694 221; x_wconf 77' lang='lat' dir='ltr'><strong>Lo</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 941 371 1938 714">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 941 371 1938 714">
+     <span class='ocr_line' id='line_1_2' title="bbox 941 371 1938 461; baseline 0.018 -30"><span class='ocrx_word' id='word_1_2' title='bbox 941 371 1281 437; x_wconf 61' lang='lat' dir='ltr'>Htrvard</span> <span class='ocrx_word' id='word_1_3' title='bbox 1313 380 1591 447; x_wconf 66' lang='lat' dir='ltr'>college·</span> <span class='ocrx_word' id='word_1_4' title='bbox 1628 391 1938 461; x_wconf 66' lang='lat' dir='ltr'>Library</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1145 459 1782 537; baseline 0.019 -12"><span class='ocrx_word' id='word_1_5' title='bbox 1145 459 1335 527; x_wconf 74' lang='lat' dir='ltr'><strong>June</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1377 468 1480 537; x_wconf 81' lang='grc'><strong>15,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1521 472 1692 535; x_wconf 73' lang='grc' dir='ltr'>191Ύ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1778 514 1782 519; x_wconf 72' lang='lat'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 975 546 1859 627; baseline 0.019 -20"><span class='ocrx_word' id='word_1_9' title='bbox 975 546 1195 615; x_wconf 64' lang='lat' dir='ltr'><strong>From</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1249 572 1364 612; x_wconf 69' lang='lat' dir='ltr'><strong>tue</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1421 557 1732 627; x_wconf 70' lang='lat' dir='ltr'><strong>Libsary</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1774 568 1859 623; x_wconf 77' lang='lat' dir='ltr'><strong>of</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1010 636 1817 714; baseline 0.021 -20"><span class='ocrx_word' id='word_1_13' title='bbox 1010 636 1262 698; x_wconf 66' lang='grc' dir='ltr'>ἅπαθε</span> <span class='ocrx_word' id='word_1_14' title='bbox 1297 645 1366 701; x_wconf 83' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1411 646 1817 714; x_wconf 63' lang='lat' dir='ltr'><strong>Hizcinnon</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1233 730 1656 801">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1233 730 1656 801">
+     <span class='ocr_line' id='line_1_6' title="bbox 1233 730 1656 801; baseline 0.019 -12"><span class='ocrx_word' id='word_1_16' title='bbox 1233 730 1415 795; x_wconf 70' lang='lat' dir='ltr'><strong>Now</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1451 732 1656 801; x_wconf 51' lang='grc' dir='ltr'><strong>Ἰαὼ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
